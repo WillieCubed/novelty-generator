@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: "RL Novelty Generator"
-description: "Some experiments for training agents that can respond to novel
-reinforcement learning environments"
+description: "Some experiments for training agents that can respond to novel reinforcement learning environments"
+show_downloads: "true"
